@@ -1,1 +1,1 @@
-# Springer_Journal
+# Springer Journal Latex Source Files
